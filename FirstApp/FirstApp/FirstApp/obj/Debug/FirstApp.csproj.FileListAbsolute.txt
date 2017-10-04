@@ -1,0 +1,16 @@
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.MainPage.xaml.g.cs
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.App.xaml.g.cs
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll
+C:\Git\VYP\Mobile\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

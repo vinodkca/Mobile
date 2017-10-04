@@ -1,0 +1,10 @@
+C:\Git\VYP\Mobile\FirstApp\Mango\bin\Debug\netstandard2.0\FirstApp.deps.json
+C:\Git\VYP\Mobile\FirstApp\Mango\bin\Debug\netstandard2.0\FirstApp.dll
+C:\Git\VYP\Mobile\FirstApp\Mango\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Git\VYP\Mobile\FirstApp\Mango\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+C:\Git\VYP\Mobile\FirstApp\Mango\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+C:\Git\VYP\Mobile\FirstApp\Mango\bin\Debug\netstandard2.0\FirstApp.pdb
+C:\Git\VYP\Mobile\FirstApp\Mango\obj\Debug\netstandard2.0\FirstApp.App.xaml.g.cs
+C:\Git\VYP\Mobile\FirstApp\Mango\obj\Debug\netstandard2.0\FirstApp.MainPage.xaml.g.cs
+C:\Git\VYP\Mobile\FirstApp\Mango\obj\Debug\netstandard2.0\FirstApp.dll
+C:\Git\VYP\Mobile\FirstApp\Mango\obj\Debug\netstandard2.0\FirstApp.pdb
